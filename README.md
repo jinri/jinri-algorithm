@@ -1,5 +1,6 @@
 # jinri-algorithm
 
+```
 chunf@landtop MINGW64 ~/github/jinri-algorithm (main)
 $ ./range_list.exe
 [1, 5)
@@ -13,5 +14,6 @@ $ ./range_list.exe
 [1, 8) [11, 15) [17, 21)
 [1, 3) [19, 21)
 
+```
 
 
