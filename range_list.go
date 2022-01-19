@@ -9,7 +9,7 @@ package main
 
 import (
     "sort"
-	"fmt"
+    "fmt"
 )
 
 type Range struct {
